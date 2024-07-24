@@ -152,3 +152,33 @@ nano echo "# Scrapy settings for project
 BOT_NAME = 'project'
 SPIDER_MODULES = ['project.spiders']
 NEWSPIDER_MODULE = 'project.spiders'" > project/settings.py
+git init
+git add .
+git branch -m main
+git rm --cached ubuntu-scrapy-setup
+git reset HEAD
+tree
+sudo snap instal tree
+sudo apt install tree
+tree
+rm -r ubuntu-scrapy-config ubuntu-scrapy-setup
+pwd*
+pwd
+sudo rm -rf ubuntu-scrapy-setup
+ls -la
+git init
+echo "venv/" > .gitignore
+echo "*.pyc" >> .gitignore
+echo "__pycache__/" >> .gitignorels -la
+ls -la
+mv .gitignorels .gitignore
+git add .
+git status
+git commit -m "Initial Scrapy project structure"
+git remote add origin https://github.com/neoweb2212/ubuntu-scrapy-setup.git
+git remote -v
+git push -u origin main
+git remote set-url origin git@github.com:neoweb2212/ubuntu-scrapy-setup.git
+git remote -v
+git push -u origin main
+git push -u origin master
