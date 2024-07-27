@@ -1,0 +1,7 @@
+brocker
+celer
+@celery.task
+test
+
+
+
