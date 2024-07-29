@@ -1,1 +1,4 @@
 __pycache__/ -la
+.gitconfig
+backups/backup_20240729_0700/
+ubuntuImage/
